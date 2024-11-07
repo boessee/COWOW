@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./images/mooo.png" alt="Project logo"></a>
+ <img width=200px height=200px src="./images/mooo.png" alt="cow says moo"></a>
 </p>
 
 <h3 align="center">cowow</h3>
