@@ -3,7 +3,7 @@
  <img width=200px height=200px src="./images/mooo.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">cowow</h3>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Collect the coolest cow quotes
     <br> 
 </p>
 
